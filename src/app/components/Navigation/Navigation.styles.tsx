@@ -6,8 +6,6 @@ export const NavBarContainer = styled.nav`
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
-  background-color: #000;
-  color: #fff;
 `;
 
 export const Brand = styled.h1`
@@ -22,7 +20,6 @@ export const NavLinks = styled.div`
 `;
 
 export const NavLink = styled(Link)`
-  color: #fff;
   text-decoration: none;
   &:hover {
     text-decoration: underline;

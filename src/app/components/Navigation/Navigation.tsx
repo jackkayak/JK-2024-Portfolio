@@ -13,14 +13,14 @@ export const Navigation = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          LinkedIn
+          LI
         </S.NavLink>
         <S.NavLink
           href="https://www.instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Instagram
+          Insta
         </S.NavLink>
       </S.NavLinks>
     </S.NavBarContainer>
